@@ -1,0 +1,1 @@
+Copy-Item -Path 'C:\DummyHTML.htm' -Destination 'C:\inetpub\wwwroot'

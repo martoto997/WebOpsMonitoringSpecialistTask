@@ -1,0 +1,1 @@
+New-Item -Path 'C:\inetpub\wwwroot' -ItemType Directory
